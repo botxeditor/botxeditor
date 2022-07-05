@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/Spotifyhttps://open.spotify.com/user/31wmstgqczym3oxrvqvcvf4ucryq?si=f0T8cQHTS3SnRQtxwUm1SQ&utm_source=copy-link-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
