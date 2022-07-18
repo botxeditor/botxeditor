@@ -3,4 +3,10 @@
 <a href="https://t.me/aboutme_offline"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 
-https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true
+<hr></hr>
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+  
+  
+  </div>
