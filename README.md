@@ -12,4 +12,4 @@
 </p>
 
 <p align="middle">        
-<a href="https://telegram.dog/KP51107"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
+<a href="https://telegram.dog/offline_3"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
