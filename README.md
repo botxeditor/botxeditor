@@ -1,3 +1,6 @@
+###  🥰 Heyy wassup 🖖🏻
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OFFLINE-BOy/&title=Profile%20Views)
+
 ## <!-- Typing SVG -->
 <p align="center">
         <img
