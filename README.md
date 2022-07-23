@@ -13,3 +13,12 @@
 
 <p align="middle">        
 <a href="https://telegram.dog/offline_3"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
+
+
+
+<hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+
+</div>
